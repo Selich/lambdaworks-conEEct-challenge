@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [lambdaworks-connect4-challenge / Compile / run] Found inputs: /home/selic/Projects/lambdaworks-connect4-challenge/*.{java,scala},/home/selic/Projects/lambdaworks-connect4-challenge/src/main/java/**/*.{java,scala},/home/selic/Projects/lambdaworks-connect4-challenge/src/main/resources/**/*,/home/selic/Projects/lambdaworks-connect4-challenge/src/main/scala/**/*.{java,scala},/home/selic/Projects/lambdaworks-connect4-challenge/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for lambdaworks-connect4-challenge/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
