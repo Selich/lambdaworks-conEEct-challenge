@@ -32,10 +32,10 @@ class AI(val name: String, val symbol: Char,val dot: Int,val level: Int)  extend
       var score = 0
       board.getState match {
         case States.FourInLine =>
-          if (board.winDot == dot) score = 1000000
+          if (board.winDot == dot) score = 1000
           else score = 0
         case States.InProgress =>
-        case _ => score = 999
+        case _ => score = 400
       }
       score
     } else {
