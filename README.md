@@ -21,6 +21,13 @@ First time writting Scala so forgive me for any mistakes based on conventions, b
     
 #### Resources used:
    Alpha-beta pruning [(link)](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/)
+
+   It's a type of minmax algorithm that tries and finds all available moves and outcomes from a given move. 
+
+   If the leafs in the decision tree return a FourInLine state, then we return the winning score and compare it with the number of steps it took.
+
+   The move with the best calculated score is then executed.
+
    
    I must admit, when there was something I didn't know how to write in Scala,I looked at [this](https://github.com/kristofa/connect4) implementation on Github. :innocent:
    
