@@ -34,7 +34,7 @@ First time writting Scala so forgive me for any mistakes based on conventions, b
 ##### Additional notes:
 Was really short on time. Had plans to open a socket communication with Scala app by importing Java libraries and hosting a React app as a client.
 
-Also, with limited amount of time I at least got familiar with Scala
+It probably isn't the optimal solution but, with the limited amount of time I had, at least I had a chance to get more familiar with Scala.
 
 All the best, and thanks for the challenge!
 
