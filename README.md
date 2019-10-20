@@ -24,7 +24,7 @@ First time writting Scala so forgive me for any mistakes based on conventions, b
 
    It's a type of minmax algorithm that tries and finds all available moves and outcomes from a given move. 
 
-   If the leafs in the decision tree return a FourInLine state, then we return the winning score and compare it with the number of steps it took.
+   If the leafs in the decision tree return a FourInLine state, then we return the winning score and compare it with the other posible outcomes.
 
    The move with the best calculated score is then executed.
 
